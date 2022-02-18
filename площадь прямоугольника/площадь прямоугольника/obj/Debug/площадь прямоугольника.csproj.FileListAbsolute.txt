@@ -1,0 +1,7 @@
+C:\Users\zotoff\source\repos\площадь прямоугольника\площадь прямоугольника\bin\Debug\площадь прямоугольника.exe.config
+C:\Users\zotoff\source\repos\площадь прямоугольника\площадь прямоугольника\bin\Debug\площадь прямоугольника.exe
+C:\Users\zotoff\source\repos\площадь прямоугольника\площадь прямоугольника\bin\Debug\площадь прямоугольника.pdb
+C:\Users\zotoff\source\repos\площадь прямоугольника\площадь прямоугольника\obj\Debug\площадь прямоугольника.csprojAssemblyReference.cache
+C:\Users\zotoff\source\repos\площадь прямоугольника\площадь прямоугольника\obj\Debug\площадь прямоугольника.csproj.CoreCompileInputs.cache
+C:\Users\zotoff\source\repos\площадь прямоугольника\площадь прямоугольника\obj\Debug\площадь прямоугольника.exe
+C:\Users\zotoff\source\repos\площадь прямоугольника\площадь прямоугольника\obj\Debug\площадь прямоугольника.pdb
