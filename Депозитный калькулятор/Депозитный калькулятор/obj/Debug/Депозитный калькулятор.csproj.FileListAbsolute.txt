@@ -1,0 +1,7 @@
+C:\Users\zotoff\source\repos\Депозитный калькулятор\Депозитный калькулятор\bin\Debug\Депозитный калькулятор.exe.config
+C:\Users\zotoff\source\repos\Депозитный калькулятор\Депозитный калькулятор\bin\Debug\Депозитный калькулятор.exe
+C:\Users\zotoff\source\repos\Депозитный калькулятор\Депозитный калькулятор\bin\Debug\Депозитный калькулятор.pdb
+C:\Users\zotoff\source\repos\Депозитный калькулятор\Депозитный калькулятор\obj\Debug\Депозитный калькулятор.csprojAssemblyReference.cache
+C:\Users\zotoff\source\repos\Депозитный калькулятор\Депозитный калькулятор\obj\Debug\Депозитный калькулятор.csproj.CoreCompileInputs.cache
+C:\Users\zotoff\source\repos\Депозитный калькулятор\Депозитный калькулятор\obj\Debug\Депозитный калькулятор.exe
+C:\Users\zotoff\source\repos\Депозитный калькулятор\Депозитный калькулятор\obj\Debug\Депозитный калькулятор.pdb
