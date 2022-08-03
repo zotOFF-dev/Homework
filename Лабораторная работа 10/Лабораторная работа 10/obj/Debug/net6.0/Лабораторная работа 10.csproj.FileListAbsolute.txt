@@ -1,0 +1,15 @@
+C:\Users\zotoff\source\repos\Лабораторная работа 10\Лабораторная работа 10\bin\Debug\net6.0\Лабораторная работа 10.exe
+C:\Users\zotoff\source\repos\Лабораторная работа 10\Лабораторная работа 10\bin\Debug\net6.0\Лабораторная работа 10.deps.json
+C:\Users\zotoff\source\repos\Лабораторная работа 10\Лабораторная работа 10\bin\Debug\net6.0\Лабораторная работа 10.runtimeconfig.json
+C:\Users\zotoff\source\repos\Лабораторная работа 10\Лабораторная работа 10\bin\Debug\net6.0\Лабораторная работа 10.dll
+C:\Users\zotoff\source\repos\Лабораторная работа 10\Лабораторная работа 10\bin\Debug\net6.0\Лабораторная работа 10.pdb
+C:\Users\zotoff\source\repos\Лабораторная работа 10\Лабораторная работа 10\obj\Debug\net6.0\Лабораторная работа 10.csproj.AssemblyReference.cache
+C:\Users\zotoff\source\repos\Лабораторная работа 10\Лабораторная работа 10\obj\Debug\net6.0\Лабораторная работа 10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zotoff\source\repos\Лабораторная работа 10\Лабораторная работа 10\obj\Debug\net6.0\Лабораторная работа 10.AssemblyInfoInputs.cache
+C:\Users\zotoff\source\repos\Лабораторная работа 10\Лабораторная работа 10\obj\Debug\net6.0\Лабораторная работа 10.AssemblyInfo.cs
+C:\Users\zotoff\source\repos\Лабораторная работа 10\Лабораторная работа 10\obj\Debug\net6.0\Лабораторная работа 10.csproj.CoreCompileInputs.cache
+C:\Users\zotoff\source\repos\Лабораторная работа 10\Лабораторная работа 10\obj\Debug\net6.0\Лабораторная работа 10.dll
+C:\Users\zotoff\source\repos\Лабораторная работа 10\Лабораторная работа 10\obj\Debug\net6.0\refint\Лабораторная работа 10.dll
+C:\Users\zotoff\source\repos\Лабораторная работа 10\Лабораторная работа 10\obj\Debug\net6.0\Лабораторная работа 10.pdb
+C:\Users\zotoff\source\repos\Лабораторная работа 10\Лабораторная работа 10\obj\Debug\net6.0\Лабораторная работа 10.genruntimeconfig.cache
+C:\Users\zotoff\source\repos\Лабораторная работа 10\Лабораторная работа 10\obj\Debug\net6.0\ref\Лабораторная работа 10.dll
