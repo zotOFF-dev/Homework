@@ -1,0 +1,15 @@
+C:\Users\zotoff\source\repos\Лабароторная работа 6\Лабароторная работа 6\bin\Debug\net6.0\Лабароторная работа 6.exe
+C:\Users\zotoff\source\repos\Лабароторная работа 6\Лабароторная работа 6\bin\Debug\net6.0\Лабароторная работа 6.deps.json
+C:\Users\zotoff\source\repos\Лабароторная работа 6\Лабароторная работа 6\bin\Debug\net6.0\Лабароторная работа 6.runtimeconfig.json
+C:\Users\zotoff\source\repos\Лабароторная работа 6\Лабароторная работа 6\bin\Debug\net6.0\Лабароторная работа 6.dll
+C:\Users\zotoff\source\repos\Лабароторная работа 6\Лабароторная работа 6\bin\Debug\net6.0\Лабароторная работа 6.pdb
+C:\Users\zotoff\source\repos\Лабароторная работа 6\Лабароторная работа 6\obj\Debug\net6.0\Лабароторная работа 6.csproj.AssemblyReference.cache
+C:\Users\zotoff\source\repos\Лабароторная работа 6\Лабароторная работа 6\obj\Debug\net6.0\Лабароторная работа 6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zotoff\source\repos\Лабароторная работа 6\Лабароторная работа 6\obj\Debug\net6.0\Лабароторная работа 6.AssemblyInfoInputs.cache
+C:\Users\zotoff\source\repos\Лабароторная работа 6\Лабароторная работа 6\obj\Debug\net6.0\Лабароторная работа 6.AssemblyInfo.cs
+C:\Users\zotoff\source\repos\Лабароторная работа 6\Лабароторная работа 6\obj\Debug\net6.0\Лабароторная работа 6.csproj.CoreCompileInputs.cache
+C:\Users\zotoff\source\repos\Лабароторная работа 6\Лабароторная работа 6\obj\Debug\net6.0\Лабароторная работа 6.dll
+C:\Users\zotoff\source\repos\Лабароторная работа 6\Лабароторная работа 6\obj\Debug\net6.0\refint\Лабароторная работа 6.dll
+C:\Users\zotoff\source\repos\Лабароторная работа 6\Лабароторная работа 6\obj\Debug\net6.0\Лабароторная работа 6.pdb
+C:\Users\zotoff\source\repos\Лабароторная работа 6\Лабароторная работа 6\obj\Debug\net6.0\Лабароторная работа 6.genruntimeconfig.cache
+C:\Users\zotoff\source\repos\Лабароторная работа 6\Лабароторная работа 6\obj\Debug\net6.0\ref\Лабароторная работа 6.dll
