@@ -1,0 +1,15 @@
+C:\Users\zotoff\source\repos\Лабораторная работа 8\Лабораторная работа 8\bin\Debug\net6.0\Лабораторная работа 8.exe
+C:\Users\zotoff\source\repos\Лабораторная работа 8\Лабораторная работа 8\bin\Debug\net6.0\Лабораторная работа 8.deps.json
+C:\Users\zotoff\source\repos\Лабораторная работа 8\Лабораторная работа 8\bin\Debug\net6.0\Лабораторная работа 8.runtimeconfig.json
+C:\Users\zotoff\source\repos\Лабораторная работа 8\Лабораторная работа 8\bin\Debug\net6.0\Лабораторная работа 8.dll
+C:\Users\zotoff\source\repos\Лабораторная работа 8\Лабораторная работа 8\bin\Debug\net6.0\Лабораторная работа 8.pdb
+C:\Users\zotoff\source\repos\Лабораторная работа 8\Лабораторная работа 8\obj\Debug\net6.0\Лабораторная работа 8.csproj.AssemblyReference.cache
+C:\Users\zotoff\source\repos\Лабораторная работа 8\Лабораторная работа 8\obj\Debug\net6.0\Лабораторная работа 8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zotoff\source\repos\Лабораторная работа 8\Лабораторная работа 8\obj\Debug\net6.0\Лабораторная работа 8.AssemblyInfoInputs.cache
+C:\Users\zotoff\source\repos\Лабораторная работа 8\Лабораторная работа 8\obj\Debug\net6.0\Лабораторная работа 8.AssemblyInfo.cs
+C:\Users\zotoff\source\repos\Лабораторная работа 8\Лабораторная работа 8\obj\Debug\net6.0\Лабораторная работа 8.csproj.CoreCompileInputs.cache
+C:\Users\zotoff\source\repos\Лабораторная работа 8\Лабораторная работа 8\obj\Debug\net6.0\Лабораторная работа 8.dll
+C:\Users\zotoff\source\repos\Лабораторная работа 8\Лабораторная работа 8\obj\Debug\net6.0\refint\Лабораторная работа 8.dll
+C:\Users\zotoff\source\repos\Лабораторная работа 8\Лабораторная работа 8\obj\Debug\net6.0\Лабораторная работа 8.pdb
+C:\Users\zotoff\source\repos\Лабораторная работа 8\Лабораторная работа 8\obj\Debug\net6.0\Лабораторная работа 8.genruntimeconfig.cache
+C:\Users\zotoff\source\repos\Лабораторная работа 8\Лабораторная работа 8\obj\Debug\net6.0\ref\Лабораторная работа 8.dll
