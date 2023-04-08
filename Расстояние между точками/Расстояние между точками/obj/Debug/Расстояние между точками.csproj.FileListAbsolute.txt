@@ -1,7 +1,0 @@
-C:\Users\zotoff\source\repos\Расстояние между точками\Расстояние между точками\bin\Debug\Расстояние между точками.exe.config
-C:\Users\zotoff\source\repos\Расстояние между точками\Расстояние между точками\bin\Debug\Расстояние между точками.exe
-C:\Users\zotoff\source\repos\Расстояние между точками\Расстояние между точками\bin\Debug\Расстояние между точками.pdb
-C:\Users\zotoff\source\repos\Расстояние между точками\Расстояние между точками\obj\Debug\Расстояние между точками.csprojAssemblyReference.cache
-C:\Users\zotoff\source\repos\Расстояние между точками\Расстояние между точками\obj\Debug\Расстояние между точками.csproj.CoreCompileInputs.cache
-C:\Users\zotoff\source\repos\Расстояние между точками\Расстояние между точками\obj\Debug\Расстояние между точками.exe
-C:\Users\zotoff\source\repos\Расстояние между точками\Расстояние между точками\obj\Debug\Расстояние между точками.pdb
