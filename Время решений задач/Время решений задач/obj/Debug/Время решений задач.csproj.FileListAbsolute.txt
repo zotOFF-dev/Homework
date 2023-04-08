@@ -1,7 +1,0 @@
-C:\Users\zotoff\source\repos\Время решений задач\Время решений задач\bin\Debug\Время решений задач.exe.config
-C:\Users\zotoff\source\repos\Время решений задач\Время решений задач\bin\Debug\Время решений задач.exe
-C:\Users\zotoff\source\repos\Время решений задач\Время решений задач\bin\Debug\Время решений задач.pdb
-C:\Users\zotoff\source\repos\Время решений задач\Время решений задач\obj\Debug\Время решений задач.csprojAssemblyReference.cache
-C:\Users\zotoff\source\repos\Время решений задач\Время решений задач\obj\Debug\Время решений задач.csproj.CoreCompileInputs.cache
-C:\Users\zotoff\source\repos\Время решений задач\Время решений задач\obj\Debug\Время решений задач.exe
-C:\Users\zotoff\source\repos\Время решений задач\Время решений задач\obj\Debug\Время решений задач.pdb
